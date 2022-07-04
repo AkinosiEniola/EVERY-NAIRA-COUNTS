@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-color: #d9d9d9;
+    color: #ffff;
+}
+.main_bg{
+    background-color: #1d3858;
+    border-radius: 4px;
+    width: 40%;
+    padding: 24px 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.span_one{
+    color: green;
+}
+.span_two{
+    color: red;
+}
+.flex_items{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    background-color: #284a73;
+    padding: 8px;
+    border-radius: 5px;
+}
+button{
+    background: #284a73;
+    border: none;
+    padding: 4px 12px;
+    color: #ffff;
+    border-radius: 5px;
+}
